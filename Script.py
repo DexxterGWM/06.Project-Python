@@ -9,4 +9,4 @@ print(f'\n {S.endswith("world")}')
 S1 = S.replace('world', 'people')
 
  # How many occurrences of the word 'amazing' does string S1 have?
-print(f'\n {S1.count("amazing")}')
+print(f'\n {S1.count("amazing")}') 
